@@ -1,0 +1,18 @@
+.header-transparente {
+    /*background-color: #a8bcb3;*/
+    background-color: white;
+    background-size: cover;
+    width: 100%;
+    min-height: 0vh;
+    
+
+}
+.header .navbar {
+    background-color: transparent !important;
+  }
+  .tamaño{
+    width: 180px;
+  }
+  #carouselExampleCaptions{
+    z-index: 2;
+  }

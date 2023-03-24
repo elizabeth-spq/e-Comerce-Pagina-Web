@@ -1,0 +1,14 @@
+.caja-a{
+    display: inline-flex;
+    align-items: center;
+}
+
+
+.marca{
+    height: 56px;
+    opacity: 0.735;
+}
+
+.box-slides{
+    margin-bottom: 25%;
+}
